@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="nhs-uk_20170704T031554.txt">
+    <annotation>
+        <mention id="EHOST_Instance_543" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="39" end="42" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:45:58 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_543">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_544" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="208" end="211" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:06 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_544">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_545" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="299" end="302" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:13 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_545">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_546" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="508" end="511" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:46:23 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_546">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_547" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="858" end="861" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:46:37 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_547">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_548" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1117" end="1119" />
+        <spannedText>un</spannedText>
+        <creationDate>Wed Jan 11 19:46:51 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_548">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_549" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1358" end="1361" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:47:01 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_549">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_550" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1420" end="1429" />
+        <spannedText>no longer</spannedText>
+        <creationDate>Wed Jan 11 19:47:12 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_550">
+        <mentionClass id="NegCue">no longer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_551" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="1519" end="1521" />
+        <span start="2312" end="2315" />
+        <spannedText>un ... n't</spannedText>
+        <creationDate>Wed Jan 11 19:47:18 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_551">
+        <mentionClass id="NegCue">un ... n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_552" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="2770" end="2773" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 11 19:48:16 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_552">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_553" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="2892" end="2894" />
+        <spannedText>no</spannedText>
+        <creationDate>Wed Jan 11 19:48:21 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_553">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_554" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3218" end="3225" />
+        <spannedText>nothing</spannedText>
+        <creationDate>Wed Jan 11 19:48:47 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_554">
+        <mentionClass id="NegCue">nothing</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_555" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3877" end="3880" />
+        <spannedText>n't</spannedText>
+        <creationDate>Wed Jan 11 19:49:20 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_555">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_556" />
+        <annotator id="eHOST_2010">martinpucheu</annotator>
+        <span start="3987" end="3989" />
+        <spannedText>no</spannedText>
+        <creationDate>Wed Jan 11 19:49:32 CET 2023</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_556">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
